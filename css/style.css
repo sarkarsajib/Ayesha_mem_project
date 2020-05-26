@@ -1,0 +1,162 @@
+body{
+    background: #1a252f;
+}
+.writing-content{
+   
+    color:white;
+    margin: auto;
+    margin-top: 5px;
+}
+.write{
+   color: #ffffff;
+    background: #2a6161;
+    padding: 5px;
+}
+.box {
+    background: #395d65;;
+    height: 40px;
+    width: 100%;
+}
+.container{
+    max-width: 550px;
+}
+ img{width: 113%;
+    margin-top: 40px;;
+    border: 5px solid white;
+ 
+}
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: white;
+    
+}
+.btn-dark {
+  
+    background-color: #003971;
+   
+}
+a {
+    color: #ffffff;
+    
+}
+.btn-secondary {
+    
+    background-color: #2a6161;
+    
+}
+.row form {
+    border: 1px solid white;
+    padding: 40px;
+}
+.list-group-item {
+   
+    background-color: #fff0;
+    border: 1px solid rgba(255, 255, 255, 0.73);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.heding{
+text-align: center;
+    color: white;
+    
+}
+.list-group:hover li {
+    background:#00000059;
+    transition: .5s;
+ 
+}
+.list-group li :hover a{
+    background:#00000059;
+    transition: .5s;
+ 
+}
+.btn-light {
+    color: #f0f3f7;
+    background-color: #010313e0;
+    border-color: #f5ebeb;
+    text-align: center;
+    margin-left: 43%;
+}
+
+
+.border-form{
+border: 5px solid white;
+    color: white;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #042b56;
+    border-color: #ffffff;
+    margin-left: 192px;
+}
+.p{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+.form-control {
+   
+    
+   color: #f1e4e4;
+    background-color: #ffffff00;
+    border: 1px solid #fdfdfd;
+    border-radius: 0px;
+    
+}
+.color{
+    color:white;
+}
+h4{
+    text-align: center;
+    color: white;
+}
+.s-document h3{
+    background:#353f42;;;
+    text-align: center;
+    color: white;
+    height: 43px;
+    font-size: 25px;
+}
+.s-document:hover h3{
+    background:#395d65;
+    transition: .7s;
+    color: black;
+}
+.bg{
+
+background: red;
+}
+.writing-content{
+    background:#44444444;
+    padding: 17px;
+    
+}
+
+
+
+.row form {
+    /* border: 1px solid white; */
+    padding: 4px;
+    /* float: right; */
+    margin-left: 900px;
+}
+
+
+
+.btn-outline-success {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+
+
+.btn-info {
+    color: #fff;
+    background-color: #395d65;
+    border-color: #ffffff;
+    border-radius: 0;
+}
+
+
